@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# ML Models (jika ukurannya besar)
+/model
+
+# Test Data (jika ukurannya besar)
+/data test
+
+# Log files
+npm-debug.log*
+*.log
+
